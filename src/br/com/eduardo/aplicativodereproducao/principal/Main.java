@@ -31,6 +31,5 @@ public class Main {
         Preferidas preferidas = new Preferidas();
         preferidas.inclui(pod1);
         preferidas.inclui(musica1);
-
     }
 }
