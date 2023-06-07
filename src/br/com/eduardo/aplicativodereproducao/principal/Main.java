@@ -7,8 +7,8 @@ import br.com.eduardo.aplicativodereproducao.modelos.Preferidas;
 public class Main {
     public static void main(String[] args) {
         Musicas musica1 = new Musicas();
-        musica1.setTitulo("Hello");
-        musica1.setCantor("Adele");
+        musica1.setTitulo("Karma");
+        musica1.setCantor("Taylor Swift");
 
         for (int i = 0; i < 1000; i++){
             musica1.reproduz();
